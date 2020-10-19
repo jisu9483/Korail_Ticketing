@@ -1,5 +1,6 @@
 # Korail_Ticketing
 > Python, Selenium을 통해 코레일 명절 기차 예매를 하게 위한 파일입니다.
+> 쥬피터 노트북을 통해 작성되었으며 필요시 py파일로 만들어서 커스텀으로 활용가능합니다.
 > python 3.x 버전  설치후
 
 > pip install selenium
